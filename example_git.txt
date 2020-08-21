@@ -6,3 +6,5 @@ ZYXWVUTSRQPONMLKJIHGFEDCBA
 Uncommited changes whenever I write something
 
 alpha beta gamma delta eta
+
+Make changes in both files
