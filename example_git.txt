@@ -1,3 +1,6 @@
 alphabet
 abcd
+Always commit first then write what you changed.
 
+ZYXWVUTSRQPONMLKJIHGFEDCBA
+Uncommited changes whenever I write something
