@@ -8,3 +8,5 @@ Uncommited changes whenever I write something
 alpha beta gamma delta eta
 
 Make changes in both files
+
+Change1: Necessary change
