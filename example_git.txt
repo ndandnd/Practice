@@ -16,3 +16,5 @@ Change1: Necessary change
 
 Change2: Experimental change
 >>>>>>> Experiment
+
+Change 3: What if we change the same thing?
