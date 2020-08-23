@@ -9,5 +9,10 @@ alpha beta gamma delta eta
 
 Make changes in both files
 
+<<<<<<< HEAD
 Change1: Necessary change
  This is a necessary change.
+=======
+
+Change2: Experimental change
+>>>>>>> Experiment
