@@ -9,12 +9,10 @@ alpha beta gamma delta eta
 
 Make changes in both files
 
-<<<<<<< HEAD
 Change1: Necessary change
  This is a necessary change.
-=======
 
 Change2: Experimental change
->>>>>>> Experiment
 
 Change 3: 만약 같은 곳을 수정한다면?
+Change 3: What if we change the same thing?
